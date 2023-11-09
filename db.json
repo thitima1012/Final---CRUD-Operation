@@ -1,0 +1,84 @@
+{
+  "monitors": [
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "S27R750",
+      "price": 29999,
+      "dimension": "27 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 2,
+      "brand": "Dell",
+      "model": "U2419H",
+      "price": 21999,
+      "dimension": "24 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 3,
+      "brand": "LG",
+      "model": "34GN850-B",
+      "price": 20099,
+      "dimension": "34 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 4,
+      "brand": "Asus",
+      "model": "VG279Q",
+      "price": 32999,
+      "dimension": "27 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 5,
+      "brand": "Acer",
+      "model": "Predator X34",
+      "price": 19999,
+      "dimension": "34 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 6,
+      "brand": "BenQ",
+      "model": "EX3501R",
+      "price": 29099,
+      "dimension": "35 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 7,
+      "brand": "HP",
+      "model": "Pavilion 22cwa",
+      "price": 12999,
+      "dimension": "21.5 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 8,
+      "brand": "ViewSonic",
+      "model": "XG2402",
+      "price": 19999,
+      "dimension": "24 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 9,
+      "brand": "Alienware",
+      "model": "AW3420DW",
+      "price": 14999,
+      "dimension": "34 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    },
+    {
+      "id": 10,
+      "brand": "Philips",
+      "model": "276E9QDSB",
+      "price": 17999,
+      "dimension": "27 inches",
+      "image": "https://source.unsplash.com/random/200x200/?monitor"
+    }
+  ]
+}
